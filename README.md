@@ -3,5 +3,5 @@
 
 [可用]
 
-http://t.me/sgk2022_11_30bot?start=SGK_RWIUDYFP
+https://t.me/sgk2022_11_30bot?start=SGK_RWIUDYFP
 
