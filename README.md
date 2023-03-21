@@ -1,6 +1,8 @@
 # SGK-BOT
 免费的社工库分享（定期更新2023.3.21）：
 
+使用 Telegram (飞机)
+
 [可用]
 
 https://t.me/sgk2022_11_30bot?start=SGK_RWIUDYFP 【推荐】
