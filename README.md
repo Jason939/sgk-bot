@@ -1,5 +1,5 @@
 # SGK-BOT
-免费的社工库分享（定期更新2023.3.26）：
+免费的社工库分享（定期更新2023.3.29）：
 
 使用 Telegram (飞机)
 
@@ -14,11 +14,6 @@ https://t.me/pingansgk_bot?start=vfoLNFya4cKZ
 https://t.me/DATA_007bot?start=ZyhNpg6h83
 
 
-# 免费VPS
-
-[可用]
-
-https://www.vultr.com/?ref=9408302-8H
 
 
 
